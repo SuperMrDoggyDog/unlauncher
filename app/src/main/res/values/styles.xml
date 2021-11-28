@@ -43,4 +43,13 @@
         <item name="colorPrimaryDark">@color/colorTeal</item>
         <item name="android:colorBackground">@color/colorTeal</item>
     </style>
+
+    <style name="AppDoomOneTheme">
+        <item name="colorAccent">#dfdfdf</item>
+        <item name="colorPrimary">#282c34</item>
+        <item name="colorPrimaryDark">#282c34</item>
+        <item name="android:colorBackground">#282c34</item>
+        <item name="android:colorForeground">#dfdfdf</item>
+        <item name="android:fontFamily">@font/ubuntu</item>
+    </style>
 </resources>

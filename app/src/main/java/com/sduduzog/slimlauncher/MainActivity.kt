@@ -138,6 +138,7 @@ class MainActivity : AppCompatActivity(),
                 3 -> R.style.AppTealTheme
                 4 -> R.style.AppCandyTheme
                 5 -> R.style.AppPinkTheme
+                6 -> R.style.AppDoomOneTheme
                 else -> R.style.AppTheme
             }
         }
