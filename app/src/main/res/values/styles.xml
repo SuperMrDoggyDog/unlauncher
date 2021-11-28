@@ -44,7 +44,7 @@
         <item name="android:colorBackground">@color/colorTeal</item>
     </style>
 
-    <style name="AppDoomOneTheme">
+    <style name="AppDoomOneTheme" parent="@style/Theme.AppCompat.NoActionBar">
         <item name="colorAccent">#dfdfdf</item>
         <item name="colorPrimary">#282c34</item>
         <item name="colorPrimaryDark">#282c34</item>
